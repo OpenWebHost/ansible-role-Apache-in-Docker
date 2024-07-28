@@ -1,0 +1,4 @@
+---
+- name: Pull Apache
+  community.docker.docker_image_pull:
+    name: httpd
