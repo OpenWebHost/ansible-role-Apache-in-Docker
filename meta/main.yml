@@ -49,3 +49,4 @@ galaxy_info:
 
 dependencies:
 - geerlingguy.docker
+- UniInc.Docker-User-Permission 
